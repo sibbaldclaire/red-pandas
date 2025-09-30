@@ -7,8 +7,6 @@ A small example project to build your experience with Git and Quarto
 
 Here’s how someone can pick up and use this project:
 
-0. **Fork** the repository on Github. 
-
 1. **Clone** the repository , replacing YOURUSERNAME with your username.
 
 ```{.bash}
